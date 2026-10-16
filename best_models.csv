@@ -1,0 +1,5 @@
+Target,Best_Model,Accuracy,F1_macro,Baseline_Acc,Lift_vs_Baseline,Perm_p_value
+Avenue (4 classes),Random Forest,0.464,0.354,0.451,0.014,0.095
+Avenue grouped (3 classes),Random Forest,0.537,0.458,0.451,0.086,0.095
+Monitoring: frequent vs monthly,Logistic Regression,0.737,0.565,0.725,0.012,0.048
+Horizon: 3+ years vs shorter,Logistic Regression,0.662,0.658,0.474,0.188,0.095

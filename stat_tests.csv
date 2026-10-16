@@ -1,0 +1,8 @@
+Avenue,MannWhitney_p_gender,Spearman_rho_age,Spearman_p_age
+Mutual_Funds,0.843,-0.13,0.42
+Equity_Market,0.509,0.23,0.159
+Debentures,0.23,0.36,0.021
+Government_Bonds,0.546,-0.1,0.556
+Fixed_Deposits,0.096,-0.06,0.694
+PPF,0.975,-0.22,0.165
+Gold,0.857,-0.23,0.163

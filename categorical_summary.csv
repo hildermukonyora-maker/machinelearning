@@ -1,0 +1,37 @@
+Variable,Category,Count,Percent
+Avenue,Mutual Fund,18,45.0
+Avenue,Equity,10,25.0
+Avenue,Fixed Deposits,9,22.5
+Avenue,Public Provident Fund,3,7.5
+Factor,Returns,25,62.5
+Factor,Risk,14,35.0
+Factor,Locking Period,1,2.5
+Objective,Capital Appreciation,26,65.0
+Objective,Growth,11,27.5
+Objective,Income,3,7.5
+Purpose,Wealth Creation,32,80.0
+Purpose,Savings for Future,6,15.0
+Purpose,Returns,2,5.0
+Duration,3-5 years,19,47.5
+Duration,1-3 years,18,45.0
+Duration,Less than 1 year,2,5.0
+Duration,More than 5 years,1,2.5
+Invest_Monitor,Monthly,29,72.5
+Invest_Monitor,Weekly,7,17.5
+Invest_Monitor,Daily,4,10.0
+Expect,20%-30%,32,80.0
+Expect,30%-40%,5,12.5
+Expect,10%-20%,3,7.5
+Savings_Objective,Retirement Plan,24,60.0
+Savings_Objective,Health Care,13,32.5
+Savings_Objective,Education,3,7.5
+Source,Financial Consultants,16,40.0
+Source,Newspapers and Magazines,14,35.0
+Source,Television,6,15.0
+Source,Internet,4,10.0
+Gender,Male,25,62.5
+Gender,Female,15,37.5
+Stock_Market,Yes,35,87.5
+Stock_Market,No,5,12.5
+Investment_Avenues,Yes,37,92.5
+Investment_Avenues,No,3,7.5

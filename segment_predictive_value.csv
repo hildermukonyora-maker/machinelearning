@@ -1,0 +1,5 @@
+Features,Accuracy
+Baseline (majority),0.451
+"Demographics only (Age, Gender)",0.451
+Segment only,0.399
+Demographics + Segment,0.336

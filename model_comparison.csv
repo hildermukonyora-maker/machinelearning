@@ -1,0 +1,25 @@
+Target,Model,Accuracy,Accuracy_SD,F1_macro
+Avenue (4 classes),Baseline (majority),0.451,0.016,0.155
+Avenue (4 classes),Logistic Regression,0.451,0.016,0.289
+Avenue (4 classes),Decision Tree,0.287,0.097,0.169
+Avenue (4 classes),Random Forest,0.464,0.124,0.354
+Avenue (4 classes),Logistic Regression (tuned),0.425,0.068,0.275
+Avenue (4 classes),Random Forest (tuned),0.426,0.061,0.194
+Avenue grouped (3 classes),Baseline (majority),0.451,0.016,0.207
+Avenue grouped (3 classes),Logistic Regression,0.488,0.075,0.416
+Avenue grouped (3 classes),Decision Tree,0.35,0.179,0.299
+Avenue grouped (3 classes),Random Forest,0.537,0.058,0.458
+Avenue grouped (3 classes),Logistic Regression (tuned),0.45,0.057,0.358
+Avenue grouped (3 classes),Random Forest (tuned),0.474,0.045,0.362
+Monitoring: frequent vs monthly,Baseline (majority),0.725,0.032,0.42
+Monitoring: frequent vs monthly,Logistic Regression,0.737,0.097,0.565
+Monitoring: frequent vs monthly,Decision Tree,0.688,0.102,0.558
+Monitoring: frequent vs monthly,Random Forest,0.737,0.039,0.56
+Monitoring: frequent vs monthly,Logistic Regression (tuned),0.699,0.102,0.514
+Monitoring: frequent vs monthly,Random Forest (tuned),0.737,0.074,0.529
+Horizon: 3+ years vs shorter,Baseline (majority),0.474,0.018,0.322
+Horizon: 3+ years vs shorter,Logistic Regression,0.662,0.116,0.658
+Horizon: 3+ years vs shorter,Decision Tree,0.562,0.08,0.543
+Horizon: 3+ years vs shorter,Random Forest,0.661,0.148,0.653
+Horizon: 3+ years vs shorter,Logistic Regression (tuned),0.612,0.13,0.608
+Horizon: 3+ years vs shorter,Random Forest (tuned),0.661,0.078,0.657

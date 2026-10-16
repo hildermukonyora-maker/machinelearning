@@ -1,0 +1,5 @@
+Target,Model,Mean_Acc,Min_Acc,Max_Acc,Baseline_Acc
+Avenue (4 classes),Random Forest,0.42,0.397,0.443,0.451
+Avenue grouped (3 classes),Random Forest,0.464,0.427,0.501,0.451
+Monitoring: frequent vs monthly,Logistic Regression,0.701,0.676,0.725,0.725
+Horizon: 3+ years vs shorter,Logistic Regression,0.591,0.584,0.598,0.474

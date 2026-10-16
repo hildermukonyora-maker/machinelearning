@@ -1,0 +1,25 @@
+,,Importance
+Avenue (4 classes),Savings_Objective,0.134
+Avenue (4 classes),Invest_Monitor,0.052
+Avenue (4 classes),Expect,0.049
+Avenue (4 classes),Age,0.039
+Avenue (4 classes),Purpose,0.034
+Avenue (4 classes),Duration,0.025
+Avenue grouped (3 classes),Savings_Objective,0.189
+Avenue grouped (3 classes),Expect,0.069
+Avenue grouped (3 classes),Source,0.044
+Avenue grouped (3 classes),Purpose,0.029
+Avenue grouped (3 classes),Age,0.025
+Avenue grouped (3 classes),Duration,0.025
+Monitoring: frequent vs monthly,Stock_Market,0.031
+Monitoring: frequent vs monthly,Equity_Market,0.03
+Monitoring: frequent vs monthly,Source,0.03
+Monitoring: frequent vs monthly,Purpose,0.023
+Monitoring: frequent vs monthly,Savings_Objective,0.02
+Monitoring: frequent vs monthly,Duration,0.02
+Horizon: 3+ years vs shorter,Source,0.123
+Horizon: 3+ years vs shorter,Equity_Market,0.121
+Horizon: 3+ years vs shorter,Gold,0.093
+Horizon: 3+ years vs shorter,Savings_Objective,0.083
+Horizon: 3+ years vs shorter,Avenue,0.069
+Horizon: 3+ years vs shorter,Expect,0.059
